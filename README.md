@@ -1,6 +1,6 @@
 
 # 🌐 PathLabs Website 
-[![Live Demo](https://path-labs-dcb8a69y4-pratik-yesares-projects.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge)](https://path-labs-dcb8a69y4-pratik-yesares-projects.vercel.app/)
 
 ## 📝 Overview  
 This repository contains a clone of the homepage of Pathlabs, created using HTML and CSS. The project aims to replicate the look and feel of the original Pathlabs homepage for educational and practice purposes.
